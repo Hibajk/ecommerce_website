@@ -1,8 +1,12 @@
-# React + Vite
+# PulsePro: Your One-Stop Shop for Apple Products
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About PulsePro
+PulsePro is an e-commerce website dedicated to providing a wide range of Apple products to customers worldwide.
 
-Currently, two official plugins are available:
+## Features
+- **Product Catalog**: Browse our extensive collection of Apple products, including iPhones, MacBooks, iPads, Apple Watches, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+1. **Browse Products**: Explore our product catalog to find the Apple product you're looking for.
+2. **Add to Cart**: Add your desired product to your shopping cart.
+3. **Checkout**: Proceed to checkout and complete your payment.
