@@ -100,3 +100,149 @@ export const products_list = [
         product_image: appletv
     }
 ]
+
+export const product_list = [
+    {
+        _id: "1",
+        name: "iPhone16 pro",
+        image: iphone16pro,
+        price: 1200,
+        description: "Advanced water resistance, long-lasting battery life",
+        category: "iPhone"
+    },
+
+    {
+        _id: "2",
+        name: "iPhone16",
+        image: iphone16,
+        price: 1100,
+        description: "Capture life's moments with unparalleled clarity.",
+        category: "iPhone"
+    },
+
+    {
+        _id: "3",
+        name: "iPhone15",
+        image: iphone15,
+        price: 1090,
+        description: "Elevate your mobile experience with the iPhone 15.",
+        category: "iPhone"
+    },
+
+    {
+        _id: "4",
+        name: "iPhone14",
+        image: iphone14,
+        price: 999,
+        description: "With its durable design, impressive battery life, and cutting-edge features",
+        category: "iPhone"
+    },
+
+    {
+        _id: "5",
+        name: "iPad Pro",
+        image: ipadpro,
+        price: 1400,
+        description: "Experience unparalleled performance with the iPad Pro.",
+        category: "iPad"
+    },
+
+    {
+        _id: "6",
+        name: "iPad Mini",
+        image: ipadmini,
+        price: 1200,
+        description: "perfect for professionals and creatives alike.",
+        category: "iPad"
+    },
+
+    {
+        _id: "7",
+        name: "iPad Air",
+        image: ipadair,
+        price: 1050,
+        description: "this tablet empowers your creativity and productivity",
+        category: "iPad"
+    },
+
+    {
+        _id: "8",
+        name: "iPad",
+        image: ipad,
+        price: 888,
+        description: "this tablet empowers your creativity and productivity.",
+        category: "iPad"
+    },
+
+    {
+        _id: "9",
+        name: "Apple watch Ultra2",
+        image: hermesultra2,
+        price: 240,
+        description: "High-end smartwatch that combines style and functionality",
+        category: "Apple Watch"
+    },
+
+    {
+        _id: "10",
+        name: "Apple watch S10",
+        image: series10,
+        price: 210,
+        description: "A premium smartwatch that offers a unique blend of style",
+        category: "Apple Watch"
+    },
+
+    {
+        _id: "11",
+        name: "Apple watch ultra 2",
+        image: ultra2,
+        price: 180,
+        description: "A premium smartwatch that offers a unique blend of style, functionality",
+        category: "Apple Watch"
+    },
+
+    {
+        _id: "12",
+        name: "Apple watch SE",
+        image: watchSE,
+        price: 150,
+        description: "A premium smartwatch that offers a unique blend of style, functionality",
+        category: "Apple Watch"
+    },
+
+    {
+        _id: "13",
+        name: "AirPods 4",
+        image: airpods4,
+        price: 120,
+        description: "A pair of wireless earbuds that offer a seamless listening experience",
+        category: "AirPods"
+    },
+
+    {
+        _id: "14",
+        name: "AirPods Pro2",
+        image: airpodspro2,
+        price: 140,
+        description: "A pair of wireless earbuds that offer a seamless listening experience",
+        category: "AirPods"
+    },
+
+    {
+        _id: "15",
+        name: "AirPods max",
+        image: airpodsmax,
+        price: 110,
+        description: "premium pair of wireless over-ear headphones",
+        category: "AirPods"
+    },
+
+    {
+        _id: "16",
+        name: "Apple TV",
+        image: appletvset,
+        price: 249,
+        description: "A streaming media player that revolutionizes the way you watch TV",
+        category: "Apple TV"
+    }
+]
