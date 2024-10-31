@@ -24,7 +24,6 @@ PulsePro is an e-commerce website dedicated to providing a wide range of Apple p
 ## Features
 
 - **Responsive Design**: Fully responsive layout using Tailwind CSS.
-- **Interactive UI**: Smooth navigation and animations with Framer Motion.
 - **React Router**: For managing routes and navigation between pages.
 - **React Tabs**: Used to toggle between different sections easily.
   
