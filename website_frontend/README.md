@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory**
     ```bash
-    cd TherapEase
+    cd frontend
     ```
 
 3. **Install Dependencies**
