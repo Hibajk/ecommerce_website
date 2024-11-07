@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory**
     ```bash
-    cd frontend
+    cd website_frontend
     ```
 
 3. **Install Dependencies**
